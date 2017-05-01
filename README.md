@@ -1,4 +1,7 @@
-# dlt.edu
+## RiskBazaar's marketing page
+(https://www.riskbazaar.org)
 
-https://dlt.education/
+### Contains
+whitepapers, link to prototype, social media links, team bios
+
 

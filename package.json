@@ -1,7 +1,7 @@
 {
-  "name": "DLT_Education",
+  "name": "RiskBazaar marketing page",
   "version": "0.0.1",
-  "description": "We provide leading edge blockchain and distributed ledger technology training to developers and business executives.",
+  "description": "Peer-to-peer risk contracts marketplace powered by the Blockchain.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
